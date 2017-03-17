@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}The Code}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Value}{1}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Standard of Behaviour}{1}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Discipline}{2}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Roles and Responsibilities}{2}{subsection.2.4}
+\contentsfinish 
